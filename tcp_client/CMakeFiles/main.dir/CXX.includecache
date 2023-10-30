@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuexiong/tcp_client/main.cpp
+iostream
+-
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+

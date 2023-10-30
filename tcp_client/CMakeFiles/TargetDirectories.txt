@@ -1,0 +1,3 @@
+/home/yuexiong/tcp_client/CMakeFiles/rebuild_cache.dir
+/home/yuexiong/tcp_client/CMakeFiles/edit_cache.dir
+/home/yuexiong/tcp_client/CMakeFiles/main.dir
